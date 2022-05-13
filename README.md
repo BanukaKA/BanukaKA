@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BanukaKA
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me --> Gmail : banukaambegoda@gmail.com
 
