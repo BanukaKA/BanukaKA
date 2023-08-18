@@ -63,7 +63,9 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
+###
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/banukaka/banukaka/output/snake.svg" alt="Snake animation" />
+###
 
