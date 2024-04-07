@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Banu  and I'm a Full Stack Developer, from Canada</h2>
 
 - 👋 Hi, I’m @BanukaKA
-- 👀 Programming enthusiast
+- 👀 AI enthusiast
 - 💞️ Looking to collaborate on Open Source.
 - 📫 Reach me @--> Gmail : banukaambegoda@gmail.com
 
