@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Banu  and I'm a Full Stack Developer, from Canada</h2>
+<h2 align="left">Hi 👋! My name is Banu  and I'm a Full Stack Developer, from Toronto</h2>
 
 - 👋 Hi, I’m @BanukaKA
 - 👀 AI enthusiast
 - 💞️ Looking to collaborate on Open Source.
-- 📫 Reach me @--> Gmail : banukaambegoda@gmail.com
+- 📫 Reach me @--> Gmail : banukaapply@gmail.com
 
 <!---
 BanukaKA/BanukaKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
