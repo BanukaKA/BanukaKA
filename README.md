@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Banu  and I'm a Full Stack Developer, from Toronto</h2>
+<h2 align="left">Hi 👋! I'm a Full Stack Developer, from Toronto</h2>
 
 - 👋 Hi, I’m @BanukaKA
 - 👀 AI enthusiast
