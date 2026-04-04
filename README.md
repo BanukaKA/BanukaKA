@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Banuka%20Ambegoda&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Banuka%20Ambegoda&fontSize=80&animation=fadeIn&reversal=false&desc=Developing%20Agentic%20Workflows%20%26%20Scalable%20Logic&descAlignY=65&descSize=22" width="100%" />
 
   <h3>🚀 Full Stack Developer & AI Engineer | Toronto, ON</h3>
 
@@ -54,8 +54,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php" />
   
   <br/><br/>
 
