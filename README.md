@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Banuka%20Ambegoda&fontSize=80&animation=fadeIn&reversal=false&desc=Developing%20Agentic%20Workflows%20%26%20Scalable%20Logic&descAlignY=65&descSize=22" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=1a1b27&height=200&section=header&text=BANUKA%20AMBEGODA&fontSize=65&animation=twinkling&fontColor=58a6ff&desc=STATUS:%20READY%20_%20LOCATION:%20TORONTO&descAlignY=65&descSize=15" width="100%" />
 
   <h3>🚀 Full Stack Developer & AI Engineer | Toronto, ON</h3>
 
