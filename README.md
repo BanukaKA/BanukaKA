@@ -21,13 +21,13 @@
       <h4>🕵️ System Log</h4>
       <ul>
         <li>👋 <b>Hi, I’m @BanukaKA</b></li>
-        <li>🤖 <b>AI Enthusiast:</b> Building agentic workflows and LLM integrations.</li>
-        <li>🏗️ <b>Full Stack:</b> Architecting scalable enterprise solutions.</li>
-        <li>🤝 <b>Collaboration:</b> Actively seeking Open Source projects to contribute to.</li>
+        <li>🤖 <b>AI & Full Stack Engineer:</b> Innovating at the foundations of Applied AI & ML and more recently Inference.</li>
+        <li>🏗️ <b>Full Stack:</b> Architecting scalable enterprise solutions across the full stack db and cloud native architectures.</li>
+        <li>🤝 <b>Collaboration:</b> Omw to be a Deep Learning expeert rn.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>📊 Current Vectors</h4>
+      <h4>📊 Current Vectors (Software Dev)</h4>
       <ul>
         <li>⚡ <b>Core:</b> Python (FastAPI/Django) & .NET Ecosystem.</li>
         <li>🧠 <b>Focus:</b> Machine Learning & Predictive Analytics.</li>
